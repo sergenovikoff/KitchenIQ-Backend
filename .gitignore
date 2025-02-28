@@ -22,3 +22,28 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Java Build System (Maven/Gradle)
+.mvn/
+.gradle/
+target/
+build/
+
+# C++ (gRPC Order Service)
+*.o
+*.out
+*.exe
+/cmake-build-debug/
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+
+# Node.js (if needed for utilities)
+node_modules/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
