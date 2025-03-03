@@ -23,7 +23,7 @@ KitchenIQ is a microservices-based restaurant management system designed to stre
 ## Getting Started
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/KitchenIQ-Backend.git
+git clone https://github.com/sergenovikoff/KitchenIQ-Backend.git
 cd KitchenIQ-Backend
 ```
 
